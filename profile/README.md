@@ -54,7 +54,13 @@
 <!-- 프로젝트 소개 -->
 ## 프로젝트 소개
 
-![TryAngle 스크린샷](../assets/main_product_img.jpeg)
+<p align="center">
+  <a href="https://youtu.be/gVFsfE3hT80">
+    <img src="https://img.youtube.com/vi/gVFsfE3hT80/maxresdefault.jpg" alt="TryAngle 시연 영상 썸네일" width="720" />
+  </a>
+  <br />
+  <a href="https://youtu.be/gVFsfE3hT80"><strong>홍보 영상 바로가기</strong></a>
+</p>
 
 TryAngle는 중앙대학교 다빈치 캠퍼스의 학우들이 사진 구도를 잘 모르는 사람들도 사진을 잘 찍을 수 있도록 기획한 프로젝트입니다.<br>
 카메라를 켜면 해당 배경의 최적 구도를 AI가 추론하여 화면비, 인물 위치, 카메라 기울기, 포즈 등을 실시간으로 가이드해줍니다.
@@ -65,6 +71,14 @@ TryAngle는 중앙대학교 다빈치 캠퍼스의 학우들이 사진 구도를
 
 
 ### 🎯 주요기능
+
+<p align="center">
+  <a href="https://youtu.be/CwZ7ngRwPFY">
+    <img src="https://img.youtube.com/vi/CwZ7ngRwPFY/maxresdefault.jpg" alt="TryAngle 시연 영상 썸네일" width="720" />
+  </a>
+  <br />
+  <a href="https://youtu.be/CwZ7ngRwPFY"><strong>시연 영상 바로가기</strong></a>
+</p>
 
 <!-- ![TryAngle 이미지 설명](../assets/final_img.png)
 
