@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://youtu.be/gVFsfE3hT80">
-    <img src="https://img.youtube.com/vi/gVFsfE3hT80/maxresdefault.jpg" alt="TryAngle 시연 영상 썸네일" width="720" />
+    <img src="https://img.youtube.com/vi/gVFsfE3hT80/maxresdefault.jpg" alt="TryAngle 홍보 영상 썸네일" width="720" />
   </a>
   <br />
   <a href="https://youtu.be/gVFsfE3hT80"><strong>홍보 영상 바로가기</strong></a>
@@ -71,6 +71,7 @@ TryAngle는 중앙대학교 다빈치 캠퍼스의 학우들이 사진 구도를
 
 
 ### 🎯 주요기능
+![TryAngle 이미지 설명](./tryangle-info1.png)
 
 <p align="center">
   <a href="https://youtu.be/CwZ7ngRwPFY">
