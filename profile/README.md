@@ -102,15 +102,27 @@ TryAngle를 제작한 **TryAngle** 를 소개합니다. 팀 TryAngle은 중앙�
 
 ### 📚 기술 스택
 
-[![Vue][Vue.js]][Vue-url]
-[![Vuetify][Vuetify]][Vuetify-url] 
-[![python][python]][python-url]
-[![FastAPI][FastAPI]][FastAPI-url]
-[![Firebase][Firebase]][Firebase-url]
-[![GoogleGemini][GoogleGemini]][GoogleGemini-url]
-[![Github Pages][Github Pages]][Github-Pages-url] 
-[![Render][Render]][Render-url] 
-[![Figma][Figma]][Figma-url] 
+### 📚 기술 스택
+
+#### **Backend & Data**
+[![Python][Python-badge]][Python-url]
+[![FastAPI][FastAPI-badge]][FastAPI-url]
+[![Redis][Redis-badge]][Redis-url]
+[![MySQL][MySQL-badge]][MySQL-url]
+[![MongoDB][MongoDB-badge]][MongoDB-url]
+
+#### **AI & Computer Vision**
+[![YOLO][YOLO-badge]][YOLO-url]
+[![DwPose][DwPose-badge]][DwPose-url]
+
+#### **Admin Frontend**
+[![Vue][Vue.js-badge]][Vue-url]
+[![Vuetify][Vuetify-badge]][Vuetify-url]
+
+#### **Infrastructure & DevOps**
+[![AWS][AWS-badge]][AWS-url]
+[![Cloudflare][Cloudflare-badge]][Cloudflare-url]
+[![Github Pages][Github-Pages-badge]][Github-Pages-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,29 +188,33 @@ TryAngle를 제작한 **TryAngle** 를 소개합니다. 팀 TryAngle은 중앙�
 
 [product-screenshot]: images/screenshot.png
 
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
 
-[Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
+[Python-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org/
+[FastAPI-badge]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
+[FastAPI-url]: https://fastapi.tiangolo.com/ko/
+[Redis-badge]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[Redis-url]: https://redis.io/
+[MySQL-badge]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[MongoDB-badge]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
+
+[YOLO-badge]: https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black
+[YOLO-url]: https://pjreddie.com/darknet/yolo/
+[DwPose-badge]: https://img.shields.io/badge/DwPose-FF6F61?style=for-the-badge&logo=google-cardboard&logoColor=white
+[DwPose-url]: https://github.com/IDEA-Research/DWPose
+
+[Vue.js-badge]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Vuetify-badge]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF
 [Vuetify-url]: https://vuetifyjs.com/
 
-[Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
-[Figma-url]: https://www.figma.com/
-
-[Firebase]: https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
-[Firebase-url]: https://firebase.google.com/
-
-[fastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-[fastAPI-url]: https://fastapi.tiangolo.com/ko/
-
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org/
-
-[GoogleGemini]: https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white
-[GoogleGemini-url]: https://gemini.google.com/
-
-[Github Pages]:https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white
-[Github-Pages-url]: https://pages.github.com/
-
-[Render]: https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
+[AWS-badge]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AWS-url]: https://aws.amazon.com/
+[Cloudflare-badge]: https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white
+[Cloudflare-url]: https://www.cloudflare.com/
+[Render-badge]: https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white
 [Render-url]: https://render.com/
+[Github-Pages-badge]: https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white
+[Github-Pages-url]: https://pages.github.com/
