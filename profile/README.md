@@ -97,15 +97,17 @@ TryAngle은 AI가 레퍼런스와 현재 화면을 실시간 비교 분석하여
 ### 😎 함께한 사람들
 TryAngle를 제작한 **TryAngle** 를 소개합니다. 팀 TryAngle은 중앙대 **예술공학부**를 기반에 두고 모였습니다. 
 
-|  | 이름 | 역할 | 참여 기간 | 비고 |
-|:---:|:---:|:-------|:---:|:------|
-| <img src="../assets/KHS.svg" width="64" height="64" style="margin: 4px;"> | 김현수 | `초기 기획` `AI 개발` `iOS 개발` | MVP 개발 ~ 현재 |  |
-| <img src="../assets/KSY.svg" width="64" height="64" style="margin: 4px;"> | 김세영 | `UI 디자인` `마케팅` | MVP 개발 ~ 현재 |  |
-| <img src="../assets/CSH.svg" width="64" height="64" style="margin: 4px;"> | 최승혜 | `UX 디자인` `서비스 기획` `PM` | MVP 개발 ~ 현재 | [블로그](https://somiru03.tistory.com) |
-| <img src="../assets/IYG.svg" width="64" height="64" style="margin: 4px;"> | 이윤균 | `UI 디자인` `마케팅` | MVP 개발 (~ v0.1.0) |  |
-| <img src="../assets/JES.svg" width="64" height="64" style="margin: 4px;"> | 전은서 | `안드로이드 개발` | MVP 개발 (~ v0.1.0) |  |
-| <img src="../assets/HSI.svg" width="64" height="64" style="margin: 4px;"> | 홍순일 | `안드로이드 개발` | 서비스 개발 | [github](https://github.com/HongSoonIL) [포폴트폴리오](https://sites.google.com/view/soonil-hong ) |
-| <img src="../assets/JEB.svg" width="64" height="64" style="margin: 4px;"> | 조은비 | `백엔드 개발` `MLOps` | 서비스 개발 ~ 현재 | [github](https://github.com/Ebee1205) [블로그](https://wavicle.tistory.com/) |
+|  | 이름 | 학교 | 역할 | 참여 기간 | 비고 |
+|:---:|:---:|:---:|:-------|:---:|:------|
+| <img src="../assets/KHS.svg" width="64" height="64" style="margin: 4px;"> | 김현수 | 중앙대학교 예술공학부 | `초기 기획` `AI 개발` `iOS 개발` | MVP 개발 ~ 현재 |  |
+| <img src="../assets/KSY.svg" width="64" height="64" style="margin: 4px;"> | 김세영 | 중앙대학교 예술공학부 | `UI 디자인` `마케팅` | MVP 개발 ~ 현재 |  |
+| <img src="../assets/CSH.svg" width="64" height="64" style="margin: 4px;"> | 최승혜 | 중앙대학교 예술공학부 | `UX 디자인` `서비스 기획` `PM` | MVP 개발 ~ 현재 | [블로그](https://somiru03.tistory.com) |
+| <img src="../assets/IYG.svg" width="64" height="64" style="margin: 4px;"> | 이윤균 | 중앙대학교 예술공학부 | `UI 디자인` `마케팅` | MVP 개발 (~ v0.1.0) |  |
+| <img src="../assets/JES.svg" width="64" height="64" style="margin: 4px;"> | 전은서 | 중앙대학교 예술공학부 | `안드로이드 개발` | MVP 개발 (~ v0.1.0) |  |
+| <img src="../assets/HSI.svg" width="64" height="64" style="margin: 4px;"> | 홍순일 | 중앙대학교 예술공학부 | `안드로이드 개발` | 서비스 개발 | [github](https://github.com/HongSoonIL) [포폴트폴리오](https://sites.google.com/view/soonil-hong ) |
+| <img src="../assets/JEB.svg" width="64" height="64" style="margin: 4px;"> | 조은비 | 중앙대학교 예술공학부 | `백엔드 개발` `MLOps` | 서비스 개발 ~ 현재 | [github](https://github.com/Ebee1205) [블로그](https://wavicle.tistory.com/) |
+| - | 윤서 | 대진대학교 시각디자인과 | `UXUI 디자인` `브랜딩` | 서비스 개발 | [포폴](https://www.behance.net/d3d35689/projects) |
+| - | 권예중 | 인하대 경영학과 | `PM` `BM 분석` | 서비스 개발 |  |
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
