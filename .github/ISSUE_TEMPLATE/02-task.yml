@@ -2,6 +2,7 @@ name: "Task · 기능·개선 작업"
 description: "한 저장소의 기능, 개선 또는 CR 구현 작업을 요청합니다."
 title: "[Task] "
 labels: ["task"]
+projects: ["try-angle-at/2"]
 body:
   - type: markdown
     attributes:

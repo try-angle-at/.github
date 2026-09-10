@@ -2,6 +2,7 @@ name: "Bug · 오류 제보"
 description: "재현 조건과 기대 결과를 바탕으로 오류를 추적합니다."
 title: "[Bug] "
 labels: ["bug"]
+projects: ["try-angle-at/2"]
 body:
   - type: textarea
     id: problem

@@ -2,6 +2,7 @@ name: "CR · 팀 간 변경 요청"
 description: "여러 저장소에 영향을 주는 API·데이터·동작 변경을 합의하고 검증합니다."
 title: "[CR] "
 labels: ["change-request"]
+projects: ["try-angle-at/2"]
 body:
   - type: markdown
     attributes:
